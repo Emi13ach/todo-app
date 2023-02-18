@@ -1,5 +1,3 @@
-Close the door
-Buy a new car
-Go to school
-Play on PSP
-Eat something
+Change the lamp
+Add new todo
+Take a shower
