@@ -1,3 +1,7 @@
-Change the lamp
-Add new todo
-Take a shower
+7
+0
+1
+2
+3
+4
+5
